@@ -1,0 +1,31 @@
+.espaco__foto {
+    padding-left:400px;
+    width: 350px;
+    height: auto;
+}
+
+#pagina__1__margem {
+    padding-top: 20px;
+    padding-left: 25%;
+    align-items: center;
+    justify-content: center;
+}
+
+#pagina_1_margem {
+    padding-top: 20px;
+    padding-left: 25%;
+    align-items: center;
+    justify-content: center;
+}
+#pagina__2__margem{
+    padding: 30px;
+}
+#pagina_2_margem{
+    padding: 80px;
+}
+.imagens_alinhadas{
+    display: flex;
+    justify-content: row;
+    gap: 40px;
+}
+
